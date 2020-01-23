@@ -10,8 +10,8 @@ layout: default
 
 # Shuai Zha (查帥)
 
-I am now a Ph.D. candidate under supervision of [MC Chu](http://www.phy.cuhk.edu.hk/people/chu.html) and [LM Lin](http://www.phy.cuhk.edu.hk/people/lin-lm.html) in [Department of Physics, the Chinese University of Hong Kong](http://www.phy.cuhk.edu.hk). My research projects were influenced greatly by MC's former Ph.D. student [SC Leung](http://member.ipmu.jp/shingchi.leung/) and in collaboration with Prof. [Ken Nomoto](http://supernova.astron.s.u-tokyo.ac.jp/index.html.en).  
-email: szha at phy.cuhk.edu.hk
+I am now a postdoc researcher at [Department of Astronomy, Stockholm University](https://www.astro.su.se/english/). I got my Ph.D. degree under supervision of [MC Chu](http://www.phy.cuhk.edu.hk/people/chu.html) and [LM Lin](http://www.phy.cuhk.edu.hk/people/lin-lm.html) in [Department of Physics, the Chinese University of Hong Kong](http://www.phy.cuhk.edu.hk). My research projects were influenced greatly by MC's former Ph.D. student [SC Leung](http://member.ipmu.jp/shingchi.leung/) and in collaboration with Prof. [Ken Nomoto](http://supernova.astron.s.u-tokyo.ac.jp/index.html.en).  
+email: shuai.zha@astro.su.se
 
 I work on stellar evolution and supernovae simulations. For my detailed research interest, please refer to the research page.
 
