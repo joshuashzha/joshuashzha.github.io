@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<img style='float: right' src="../content/Crab_Nebula.jpg" width = "30%" height = "30%" alt="Crab Nebula taken by NASA's Chandra Sattelite" >
+<img style='float: right' src="../content/fig2.png" width = "30%" height = "30%" alt="Crab Nebula taken by NASA's Chandra Sattelite" >
 
 I am interested in supernovae (SNe), the grand explosions marking the death of stars. The photo below is the famous example of a supernova remnant, Crab Nebula, taken by NASA’s Chandra satellite. It is believed to the remnant of SN 1054, a prototype of electron capture supernova (ECSN), proposed by Professor Ken’ichi Nomoto and others. My major effort has been understanding the origin of this type of SNe and the life of stars before exploding as ECSN.
 
