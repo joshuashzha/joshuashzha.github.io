@@ -10,10 +10,10 @@ layout: default
 
 # Shuai Zha (查帥)
 
-I am now a postdoc researcher working with [Evan O'Connor](https://ttt.astro.su.se/~eoco/) at [Department of Astronomy, Stockholm University](https://www.astro.su.se/english/). I got my Ph.D. degree under supervision of [MC Chu](http://www.phy.cuhk.edu.hk/people/chu.html) and [LM Lin](http://www.phy.cuhk.edu.hk/people/lin-lm.html) in [Department of Physics, the Chinese University of Hong Kong](http://www.phy.cuhk.edu.hk). My research projects were influenced greatly by MC's former Ph.D. student [SC Leung](http://member.ipmu.jp/shingchi.leung/) and in collaboration with Prof. [Ken Nomoto](http://supernova.astron.s.u-tokyo.ac.jp/index.html.en).  
+I am a theoretical astrophysics, mainly working on the computational modeling of supernovae. Currently I am a prize postdoc at Tsung-Dao Lee Institute, Shanghai Jiaotong University. 
 email: shuai.zha@astro.su.se
 
-I work on stellar evolution and supernovae simulations. For my detailed research interest, please refer to the [research](joshuashzha.github.io/research/) page.
+I have made contributions to the prediction of multi-messenger signals that can imprint the hadron-quark phase transition in core-collapse supernovae. I also actively work on the modeling of electron-capture supernovae, from progenitor evolution to explosions. For my detailed research interest, please refer to the [research](joshuashzha.github.io/research/) page.
 
 I was born in Anhui province, China, which is famous for the beautiful [Yellow Mountain](https://www.chinahighlights.com/huangshan/yellow-mountain/).
 
